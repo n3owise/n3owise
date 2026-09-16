@@ -1,3 +1,5 @@
+  <img width=300 src="./banner.gif"/>    
+
 # 💫 About Me:
 🔭 I’m currently working on AI-powered caption generator peoject<br>🧑‍🤝‍🧑 I’m looking to collaborate on AI, design & creative technology  <br>🤝 I’m looking for help with exploring new workflows & tools  <br>🌱 I’m currently learning generative AI, creative design & motion design  <br>💬 Ask me about visual design, AI tools, branding & motion  <br>⚡ Fun fact: I started in the kitchen and somehow ended up building things with AI
 
